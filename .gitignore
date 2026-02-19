@@ -20,3 +20,8 @@ data/processed/
 # BUT keep our bundled serving model in the repo
 !src/serving/model/
 !src/serving/model/**
+
+CLAUDE.md
+.ipynb_checkpoints/
+mlflow.db
+

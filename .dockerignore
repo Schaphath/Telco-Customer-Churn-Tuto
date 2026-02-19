@@ -1,2 +1,12 @@
 data/
 notebooks/
+.ipynb_checkpoints/
+.github/
+catboost_info/
+scripts/
+venv/
+src/
+CLAUDE.md
+mlflow.db
+.gitignore
+
